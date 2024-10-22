@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WealthZen</string>
+    <string name="get_started">Get_Started</string>
+    <string name="make_appointment">Make Appointment</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100259046642",
+    "project_id": "wealthzen-2951e",
+    "storage_bucket": "wealthzen-2951e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100259046642:android:b0b8f6ea23b40e41239c6b",
+        "android_client_info": {
+          "package_name": "com.sachin.wealthzen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3GVJrnytVTlC1wTxCQ2nVFLEvp-kVQmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
